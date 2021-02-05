@@ -4,8 +4,8 @@
 // const name = "0"; //false
 // const name = ""; //false
 // let name = null; // false
-//let name = NaN; //false
-//let name;//false
+// let name = NaN; //false
+// let name;//false
 // let name = []; //true
 // let name = {}; //true
 //let name = false;//false
